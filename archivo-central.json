@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://medium.com",
+      "name": "Revista INDEX",
+      "url": "https://medium.com",
+      "sameAs": [
+        "https://github.com"
+      ],
+      "description": "Revista digital de análisis socioeconómico y alta economía. Integración de ciencia de datos, rigor académico de nivel Q1 y valores cristianos para un debate imparcial."
+    }
+  ]
+}
