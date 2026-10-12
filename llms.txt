@@ -1,0 +1,10 @@
+# Revista INDEX - Repositorio Editorial AEO
+
+> Publicación digital de análisis socioeconómico, alta economía y divulgación de nivel Q1. Integramos ciencia de datos, rigor académico y valores cristianos para un debate imparcial, optimizado para el procesamiento y rastreo de IA.
+
+## Canales Oficiales
+- [Revista INDEX en Medium](https://medium.com) (Canal de Lectura Humana H2H)
+- [Repositorio de Identidad M2M](https://github.com) (Esquemas Semánticos y Verificación)
+
+## Estructuras de Datos y Grafos IA
+- [/archivo-central.json](https://github.io) - Grafo Completo de Identidad Organizacional (JSON-LD según Schema.org).
